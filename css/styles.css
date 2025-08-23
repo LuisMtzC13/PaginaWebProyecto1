@@ -1,13 +1,13 @@
 :root{
     
-    /*Colores*/
+    /*Colores bonitos del curso git y github*/
     --blanco:#ffffff;
     --oscuro:#212121;
     --principal:#FFC107;
     --secundario:#0097A7;
     --gris:#757575;
 
-    /*Fuentes*/
+    /*Fuentes OMG*/
     --fuente-principal:3.8rem;
     --fuente-pequeña:2rem;
 
@@ -19,7 +19,7 @@ html{
 }
 
 body {
-    font-size: 16px; /* 1rem = 10px*/
+    font-size: 16px; /* 1rem = 10px Hola*/
 }
 
 .titulo{
